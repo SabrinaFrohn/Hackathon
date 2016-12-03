@@ -1,0 +1,421 @@
+{
+  "source_document_id": "", 
+  "media_type_detected": "application/pdf", 
+  "timestamp": "2016-12-03T13:00:08.679Z", 
+  "warnings": [], 
+  "answer_units": [
+    {
+      "direction": "ltr", 
+      "title": "Crop rotation", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "\"Fallow\" redirects here. For other uses, see Fallow (dis- ambiguation) . Crop rotation is the practice of growing a series of Satellite image of circular crop fields in Kansas in late June 2001. Healthy, growing crops are green. Corn would be growing into leafy stalks by then. Sorghum , which resembles corn, grows more slowly and would be much smaller and therefore, (possibly) paler. Wheat is a brilliant yellow as harvest occurs in June. Fields of brown have been recently harvested and plowed under or lie fallow for the year. Effects of crop rotation and monoculture at the Swojec Experimental Farm, Wroclaw University of Environmental and Life Sciences . In the front field, the \"Norfolk\" crop rotation sequence (potatoes, oats, peas, rye) is being applied; in the back field, rye has been grown for 45 years in a row. dissimilar or different types of crops in the same area in sequenced seasons . It is done so that the soil of farms is not used to only one type of nutrient. It helps in reducing soil erosion and increases soil fertility and crop yield . Growing the same crop in the same place for many years in a row disproportionately depletes the soil of certain nutrients . With rotation, a crop that leaches the soil of one kind of nutrient is followed during the next growing season by a dissimilar crop that returns that nutrient to the soil or draws a different ratio of nutrients. In addition, crop rotation mitigates the buildup of pathogens and pests that often occurs when one species is continuously cropped, and can also improve soil structure and fertility by increasing biomass from varied root structures. Crop rotation is used in both conventional and organic farming systems."
+        }
+      ], 
+      "parent_id": "", 
+      "type": "h1", 
+      "id": "0b8d9006-08a3-4910-bff5-a11474a46270"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "1 History", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Agriculturalists have long recognized that suitable rotations - such as planting spring crops for livestock in place of grains for human consumption - make it possible to restore or to maintain a productive soil. Middle Eastern farmers practised crop rotation in 6000 BC without understanding the chemistry, alternately planting legumes and cereals. In the Bible, chapter 25 of the Book of Leviticus instructs the Israelites to observe a \" Sabbath of the Land\". Every seventh year they would not till, prune or even control insects.[1] The Roman writer, Cato the Elder (234 - 149 BC), recommended that farmers \"save carefully goat, sheep, cattle, and all other dung\".[2] From the times of Charlemagne (died 814), farmers in Europe transitioned from a two-field crop rotation to a three-field crop rotation. Under a two-field rotation, half the land was planted in a year, while the other half lay fallow . Then, in the next year, the two fields were reversed. From the end of the Middle Ages until the 20th century, Europe's farmers practised three-field rotation , dividing available lands into three parts. One section was planted in the autumn with rye or winter wheat , followed by spring oats or barley ; the second section grew crops such as peas, lentils, or beans; and the third field was left fallow. The three fields were rotated in this manner so that every three years, a field would rest and be fallow. Under the two-field system, if one has a total of 600 acres (2.4 km2) of fertile land, one would only plant 300 acres. Under the new three-field rotation system, one would plant (and therefore harvest) 400 acres. But the additional crops had a more significant effect than mere quantitative productivity. Since the spring crops were 1 mostly legumes, they increased the overall nutrition of the people of Northern Europe. Farmers in the region of Waasland (in present-day northern Belgium) pioneered a four-field rotation in the early 16th century, and the British agriculturist Charles Town- shend (1674-1738) popularised this system in the 18th century. The sequence of four crops ( wheat , turnips , barley and clover ), included a fodder crop and a grazing crop, allowing livestock to be bred year-round. The four-field crop rotation became a key development in the British Agricultural Revolution . The rotation between arable and ley is sometimes called ley farming . George Washington Carver (1860s - 1943) studied crop-rotation methods in the United States , teaching southern farmers to rotate soil-depleting crops like cottonwith soil-enriching crops like peanuts and peas . In the Green Revolution of the mid-20th century the traditional practice of crop rotation gave way in some parts of the world to the practice of supplementing the chemical inputs to the soil through topdressing with fertilizers , adding (for example) ammonium nitrate or urea and restoring soil pH with lime . Such practices aimed to increase yields, to prepare soil for specialist crops, and to reduce waste and inefficiency by simplifying planting and harvesting."
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "a22356b0-4bea-452e-8788-c36f600104a6"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "2 Crop choice", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "A preliminary assessment of crop interrelationships can be found in how each crop: (1) contributes to soil organic matter (SOM) content, (2) provides for pest management , (3) manages deficient or excess nutrients, and (4) how it contributes to or controls for soil erosion.[3] Crop choice is often related to the goal the farmer is looking to achieve with the rotation, which could be weed management , increasing available nitrogen in the soil, controlling for erosion, or increasing soil structure and biomass, to name a few.[4] When discussing crop rotations, crops are classified in different ways depending on what quality is being assessed: by family, by nutrient needs/benefits, and/or by profitability (i.e. cash crop versus cover crop).[5] For example, giving adequate attention to plant family is essential to mitigating pests and pathogens. However, many farmers have success managing rotations by planning sequencing and cover crops around desirable cash crops.[6] The following is a simplified classification based on crop quality and purpose."
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "0253578d-2f91-4cbb-a8a7-0d963b121435"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "2.1 Row crops", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Many crops which are critical for the market, like vegetables , are row crops (that is, grown in tight rows).[5] While often the most profitable for farmers, these crops are more taxing on the soil[5] Row crops typically have low biomass and shallow roots: this means the plant contributes low residue to the surrounding soil and has limited effects on structure.[7] With much of the soil around the plant is exposed to disruption by rainfall and traffic, fields with row crops experience faster break down of organic matter by microbes, leaving fewer nutrients for future plants.[7] In short, while these crops may be profitable for the farm, they are nutrient depleting. Crop rotation practices exist to strike a balance between short-term profitability and long-term productivity.[6]"
+        }
+      ], 
+      "parent_id": "0253578d-2f91-4cbb-a8a7-0d963b121435", 
+      "type": "h4", 
+      "id": "9fab1a1b-699d-4fac-8322-d0c48c3a8cc4"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "2.2 Legumes", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "A great advantage of crop rotation comes from the interrelationship of nitrogen fixing -crops with nitrogen demanding crops. Legumes, like alfalfa and clover, collect available nitrogen from the soil in nodules on their root structure.[8] When the plant is harvested, the biomass of uncollected roots breaks down, making the stored nitrogen available to future crops. Legumes are also a valued green manure : a crop that collects nutrients and fixes them at soil depths accessible to future crops.[9] In addition, legumes have heavy tap roots that burrow deep into the ground, lifting soil for better tilth and absorption of water."
+        }
+      ], 
+      "parent_id": "0253578d-2f91-4cbb-a8a7-0d963b121435", 
+      "type": "h4", 
+      "id": "6d6ce942-5a8f-4349-96a0-149960d2b860"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "2.3 Grasses and cereals", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Cereal and grasses are frequent cover crops because of the many advantages they supply to soil quality and structure. The dense and far-reaching root systems give ample structure to surrounding soil and provide significant biomass for soil organic matter . Grasses and cereals are key in weed management as they compete with undesired plants for soil space and nutrients."
+        }
+      ], 
+      "parent_id": "0253578d-2f91-4cbb-a8a7-0d963b121435", 
+      "type": "h4", 
+      "id": "0c1c9c2c-027d-40b6-be52-ea6c8d2a2ecd"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "2.4 Green manure", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Green manure is a crop that is mixed into the soil. Both nitrogen-fixing legumes and nutrient scavengers, like grasses, can be used as green manure.[8] Green manure of legumes is an excellent source of nitrogen, especially for organic systems, however, legume biomass doesn't contribute to lasting soil organic matter like grasses do.[8]"
+        }
+      ], 
+      "parent_id": "0253578d-2f91-4cbb-a8a7-0d963b121435", 
+      "type": "h4", 
+      "id": "a16d7f83-6df3-45d6-9973-964f7b2e441a"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "3 Planning a rotation", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "There are numerous factors that must be taken into consideration when planning a crop rotation. Planning an effective rotation requires weighing fixed and fluctuating production circumstances, including, but not limited to: market, farm size, labor supply, climate, soil type, growing practices, etc.[10] Moreover, a crop rotation must consider in what condition one crop will leave the soil for the succeeding crop and how one crop can be seeded with another crop.[10] For example, a nitrogen-fixing crop, like a legume, should always proceed a nitrogen depleting one; similarly, a low residue crop (i.e. a crop with low biomass) should be offset with a high biomass cover crop, like a mixture of grasses and legumes.[3] There is no limit to the number of crops that can be used in a rotation, or the amount of time a rotation takes to complete.[7] Decisions about rotations are made years prior, seasons prior, or even at the very last minute when an opportunity to increase profits or soil quality presents itself.[6] In short, there is no singular formula for rotation, but many considerations to take into account."
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "4624f341-be0b-4319-8226-8efcb0887ca9"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "4 Implementation", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Crop rotation systems may be enriched by the influences of other practices such as the addition of livestock and manure,[11] intercropping or multiple cropping , and organic management low in pesticides and synthetic fertilizers."
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "986485b2-d92a-4fbd-9103-19b4d4270dd7"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "4.1 Incorporation of livestock", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Introducing livestock makes the most efficient use of critical sod and cover crops ; livestock (through manure ) are able to distribute the nutrients in these crops throughout the soil rather than removing nutrients from the farm through the sale of hay.[7] In systems where use of farm livestock would violate reservations growers or consumers may have about animal exploitation , efforts are made to surrogate this input through livestock in the soil, namely worms and microorganisms.[11] In Sub-SaharanAfrica, as animal husbandry becomes less of a nomadic practice many herders have begun integrating crop production into their practice. This is known as mixed farming, or the practice of crop cultivation with the incorporation of raising cattle, sheep and/or goats by the same economic entity, is increasingly common. This interaction between the animal, the land and the crops are being done on a small scale all across this region. Crop residues provide animal feed, while the animals provide manure for replenishing crop nutrients and draft power. Both processes are extremely important in this region of the world as it is expensive and logistically unfeasible to transport in synthetic fertilizers and large-scale machinery. As an additional benefit, the cattle, sheep and/or goat provide milk and can act as a cash crop in the times of economic hardship.[12]"
+        }
+      ], 
+      "parent_id": "986485b2-d92a-4fbd-9103-19b4d4270dd7", 
+      "type": "h4", 
+      "id": "4ee98cdd-7e6f-498c-b127-8f96c5e84861"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "4.2 Organic farming", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Crop rotation is a required practice in order for a farm to receive organic certification in the United States.[13] The \"Crop Rotation Practice Standard\" for the National Or- ganic Program under the U.S. Code of Federal Regula- tions , section \u00a7205.205, states that: Farmers are required to implement a crop rotation that maintains or builds soil organic matter, works to control pests, manages and conserves nutrients, and protects against erosion. Producers of perennial crops that aren't rotated may utilize other practices, such as cover crops, to maintain soil health.[7] In addition to lowering the need for inputs by controlling for pests and weeds and increasing available nutrients, crop rotation helps organic growers increase the amount of biodiversity on their farms.[7] Biodiversity is also a requirement of organic certification, however, there are no rules in place to regulate or reinforce this standard.[7] Increasing the biodiversity of crops has beneficial effects on the surrounding ecosystem and can host a greater diversity of fauna, insects, and beneficial microorganism in the soil.<[7] Some studies point to increased nutrient availability from crop rotation under organic systems compared to conventional practices as organic practices are less likely to inhibit of beneficial microbes in soil organic matter.[14] While multiple cropping and intercropping benefit from many of the same principals as crop rotation, they do not satisfy the requirement under the NOP .[7]"
+        }
+      ], 
+      "parent_id": "986485b2-d92a-4fbd-9103-19b4d4270dd7", 
+      "type": "h4", 
+      "id": "9d64fe5f-e6ad-4803-b897-d0df624d0816"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "4.3 Intercropping", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Multiple cropping systems, such as intercropping or companion planting , offer more diversity and complexity within the same season or rotation, for example the three sisters . An example of companion planting is the interplanting of corn with pole beans and vining squash or pumpkins. In this system, the beans provide nitrogen; the corn provides support for the beans and a \"screen\" against squash vine borer; the vining squash provides a weed suppressive canopy and discourages corn-hungry raccoons.[4] Double-cropping is common where two crops, typically of different species, are grown sequentially in the same growing season, or where one crop (e.g. vegetable) is grown continuously with a cover crop (e.g. wheat).[3] This is advantageous for small farms, who often cannot afford to leave cover crops to replenish the soil for extended periods of time, as larger farms can.[6] When multiple cropping is implemented on small farms, these systems can maximize benefits of crop rotation on available land resources.[6]"
+        }
+      ], 
+      "parent_id": "986485b2-d92a-4fbd-9103-19b4d4270dd7", 
+      "type": "h4", 
+      "id": "3a9c8725-dc23-4030-8644-6eb1bb809b5f"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5 Benefits", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Agronomists describe the benefits to yield in rotated crops as \"The Rotation Effect\". There are many found benefits of rotation systems: however, there is no specific scientific basis for the sometimes 10-25% yield increase in a crop grown in rotation versus monoculture. The factors related to the increase are simply described as alleviation of the negative factors of monoculture cropping systems. Explanations due to improved nutrition; pest, pathogen, and weed stress reduction; and improved soil structure have been found in some cases to be correlated, but causation has not been determined for the majority of cropping systems. Other benefits of rotation cropping systems include production cost advantages. Overall financial risks are more widely distributed over more diverse production of crops and/or livestock. Less reliance is placed on purchased inputs and over time crops can maintain production goals with fewer inputs. This in tandem with greater short and long term yields makes rotation a powerful tool for improving agricultural systems."
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "8588b85b-d9cb-46a8-b15b-85ec99159429"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.1 Soil organic matter", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "The use of different species in rotation allows for increased soil organic matter (SOM), greater soil structure, and improvement of the chemical and biological soil environment for crops. With more SOM, water infiltration and retention improves, providing increased drought tolerance and decreased erosion. Soil organic matter is a mix of decaying material from biomass with active microorganisms . Crop rotation, by nature, increases exposure to biomass from sod, green manure, and a various other plant debris. The reduced need for intensive tillage under crop rotation allows biomass aggregation to lead to greater nutrient retention and utilization, decreasing the need for added nutrients.[5] With tillage, disruption and oxidation of soil creates a less conducive environment for diversity and proliferation of microorganisms in the soil. These microorganisms are what make nutrients available to plants. So, where \"active\" soil organic matter is a key to productive soil, soil with low microbial activity provides significantly fewer nutrients to plants; this is true even though the quantity of biomass left in the soil may be the same. Soil microorganisms also decrease pathogen and pest activity through competition. In addition, plants produce root exudates and other chemicals which manipulate their soil environment as well as their weed environment. Thus rotation allows increased yields from nutrient availability but also alleviation of allelopathy and competitive weed environments."
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "44410951-caba-46a6-916c-d6fe5f8f27da"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.2 Carbon sequestration", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Studies have shown that crop rotations greatly increase soil organic carbon (SOC) content, the main constituent of soil organic matter .[15] Carbon, along with hydrogen and oxygen, is a macronutrient for plants. Highly diverse rotations spanning long periods of time have shown to be even more effective in increasing SOC, while soil disturbances (e.g. from tillage) are responsible for exponential decline in SOC levels.[15] In Brazil, conservation to no-till methods combined with intensive crop rotations has been shown an SOC sequestration rate of 0.41 tonnes per hectare per year.[16] In addition to enhancing crop productivity, sequestration of atmospheric carbon has great implications in reducing rates of climate change by removing carbon dioxide from the air."
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "bc78d314-84a3-433f-8e6d-592a173fd16f"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.3 Nitrogen fixing", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Rotating crops adds nutrients to the soil. Legumes , plants of the family Fabaceae , for instance, have nodules on their roots which contain nitrogen-fixing bacteria called rhizobia . During a process called nodulation, the rhizobia bacteria use nutrients and water provided by the plant to convert atmospheric nitrogen into ammonia, which is then converted into an organic compound that the plant can use as its nitrogen source.[17] It therefore makes good sense agriculturally to alternate them with cereals (family Poaceae ) and other plants that require nitrates . How much nitrogen made available to the plants depends on factors such as the kind of legume, the effectiveness of rhizobia bacteria, soil conditions, and the availability of elements necessary for plant food.[18]"
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "3a3ed595-a3e6-4b87-9838-b4e911c9f5cb"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.4 Pathogen and pest control", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Crop rotation is also used to control pests and diseases that can become established in the soil over time. The changing of crops in a sequence decreases the population level of pests by (1) interrupting pest life cycles and (2) interrupting pest habitat.[6] Plants within the same taxonomic family tend to have similar pests and pathogens. By regularly changing crops and keeping the soil occupied by cover crops instead of lying fallow, pest cycles can be broken or limited, especially cycles that benefit from overwintering in residue.[19] For example, root-knot nematode is a serious problem for some plants in warm climates and sandy soils, where it slowly builds up to high levels in the soil, and can severely damage plant productivity by cutting off circulation from the plant roots. Growing a crop that is not a host for root-knot nematode for one season greatly reduces the level of the nematode in the soil, thus making it possible to grow a susceptible crop the following season without needing soil fumigation . This principle is of particular use in organic farming , where pest control must be achieved without synthetic pesticides.[11]"
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "fa66b974-b9a7-4b8e-95e9-10fa6cb84d5c"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.5 Weed management", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Integrating certain crops, especially cover crops , into crop rotations is of particular value to weed management . These crops crowd out weed through competition. In addition, the sod and compost from cover crops and green manure slows the growth of what weeds are still able to make it through the soil, giving the crops further competitive advantage. By removing slowing the growth and proliferation of weeds while cover crops are cultivated, farmers greatly reduce the presence of weeds for future crops, including shallow rooted and row crops, which are less resistant to weeds. Cover crops are, therefore, considered conservation crops because they protect otherwise fallow land from becoming overrun with weeds.[19] This system has advantages over other common practices for weeds management, such as tillage . Tillage is meant to inhibit growth of weeds by overturning the soil; however, this has a countering effect of exposing weed seeds that may have gotten buried and burying valuable crop seeds. Under crop rotation, the number of viable seeds in the soil is reduced through the reduction of the weed population. Not only do weeds have a negative impact on quality, and yields of potatoes, but it can also slow down operations when the crop is mature, and ready to harvest. Weeds make farmers less efficient when harvesting, because weeds like bindweeds, and knotgrass, can become tangled in the equipment, resulting in a stop-and-go type of harvest.[20]"
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "1528f448-089c-4997-84b8-6756ecf9c04c"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.6 Preventing soil erosion", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Crop rotation can significantly reduce the amount of soil lost from erosion by water. In areas that are highly susceptible to erosion, farm management practices such as zero and reduced tillage can be supplemented with specific crop rotation methods to reduce raindrop impact, sediment detachment, sediment transport , surface runoff , and soil loss.[21] Protection against soil loss is maximized with rotation methods that leave the greatest mass of crop stubble (plant residue left after harvest) on top of the soil. Stubble cover in contact with the soil minimizes erosion from water by reducing overland flow velocity, stream power, and thus the ability of the water to detach and transport sediment.[22] Soil Erosion and Cill prevent the disruption and detachment of soil aggregates that cause macropores to block, infiltration to decline, and runoff to increase.[23] This significantly improves the resilience of soils when subjected to periods of erosion and stress. When a forage crop breaks down, binding products are formed that act like an adhesive on the soil, which makes particles stick together, and form aggregates.[24] The formation of soil aggregates is important for erosion control, as they are better able to resist raindrop impact, and water erosion. Soil aggregates also reduce wind erosion, because they are larger particles, and are more resistant to abrasion through tillage practices.[25] The effect of crop rotation on erosion control varies by climate. In regions under relatively consistent climate conditions, where annual rainfall and temperature levels are assumed, rigid crop rotations can produce sufficient plant growth and soil cover. In regions where climate conditions are less predictable, and unexpected periods of rain and drought may occur, a more flexible approach for soil cover by crop rotation is necessary. An opportunity cropping system promotes adequate soil cover under these erratic climate conditions.[26] In an opportunity cropping system, crops are grown when soil water is adequate and there is a reliable sowing window. This form of cropping system is likely to produce better soil cover than a rigid crop rotation because crops are only sown under optimal conditions, whereas rigid systems are not necessarily sown in the best conditions available.[27] Crop rotations also affect the timing and length of when a field is subject to fallow.[28] This is very important because depending on a particular region's climate, a field could be the most vulnerable to erosion when it is under fallow. Efficient fallow management is an essential part of reducing erosion in a crop rotation system. Zero tillage is a fundamental management practice that promotes crop stubble retention under longer unplanned fallows when crops cannot be planted.[26] Such management practices that succeed in retaining suitable soil cover in areas under fallow will ultimately reduce soil loss. In a recent study that lasted a decade, it was found that a common winter cover crop after potato harvest such as fall rye can reduce soil run-off by as much as 43%, and this is typically the most nutritional soil.[29]"
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "ef3994be-c90f-4c9c-9792-9cd6868f471a"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.7 Biodiversity", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Increasing the biodiversity of crops has beneficial effects on the surrounding ecosystem and can host a greater diversity of fauna, insects, and beneficial microorganisms in the soil.[7] Some studies point to increased nutrient availability from crop rotation under organic systems compared to conventional practices as organic practices are less likely to inhibit of beneficial microbes in soil organic matter, such as arbuscular mycorrhizae, which increase nutrient uptake in plants.[14] Increasing biodiversity also increases the resilience of agro-ecological systems.[5]"
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "d34e56d2-b85f-418f-8906-2bdd2b0b68ae"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.8 Farm productivity", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Crop rotation contributes to increased yields through improved soil nutrition. By requiring planting and harvesting of different crops at different times, more land can be farmed with the same amount of machinery and labour."
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "bbfd32aa-05e3-42a2-9f86-9461936eaeb5"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "5.9 Risk management", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Different crops in the rotation can reduce the risks of adverse weather for the individual farmer.[30][31]"
+        }
+      ], 
+      "parent_id": "8588b85b-d9cb-46a8-b15b-85ec99159429", 
+      "type": "h4", 
+      "id": "2c99dfa8-bc14-47d1-97c6-7d1860454481"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "6 Challenges", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "While crop rotation requires a great deal of planning, crop choice must respond to a number of fixed conditions (soil type, topography, climate, and irrigation) in addition to conditions that may change dramatically from year to the next (weather, market, labor supply).[6] In this way, it is unwise to plan crops years in advance. Improper implementation of a crop rotation plan may lead to imbalances in the soil nutrient composition or a buildup of pathogens affecting a critical crop.[6] The consequences of faulty rotation may take years to become apparent even to experienced soil scientists and can take just as long to correct.[6] Many challenges exist within the practices associated with crop rotation. For example, green manure from legumes can lead to an invasion of snails or slugs and the decay from green manure can occasionally suppress the growth of other crops.[9]"
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "a0bd2b3c-ec76-4697-8b61-be3fc59abcb4"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "7 See also", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Organic farming Nitrogen fixing Agroecology Shmita Carbon cycle"
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "5890cadd-54d9-4167-b5f6-83d2c2cd3273"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "8 Notes", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "[1] \"Sabbath of the Land\" . Retrieved 2016-09-06. It is a well-established agricultural fact that resting the land every seven years is best for the soil and that much-improved crops result from doing so. During this scriptural practice, there was to be no pruning or planting in the sabbath year, nor any attempt to kill the insects, or otherwise interfere with natural processes in the field. The fruit had to remain in the field, except for what passerby[sic], servants, or owners plucked to eat; no real harvesting was permitted, only eating. [2] Kolbert, Elizabeth (2013-10-21). \"Head Count\" . The New Yorker . Retrieved 14 October 2013. [3] Organic Production: Using NRCS Practice Standards to Support Organic Growers (Report). Natural Resources Conservation Service . July 2009. [4] Dufour, Rex (July 2015). Tipsheet: Crop Rotation in Or- ganic Farming Systems (Report). National Center for Ap- propriate Technology . Retrieved May 4, 2016. [5] Baldwin, Keith R. (June 2006). Crop Rotations on Or- ganic Farms (PDF) (Report). Center for Environmental Farming Systems. Retrieved May 4, 2016. [6] Johnson, Sue Ellen; Charles L. Mohler, (2009). Crop Rotation on Organic Farms: A Planning Manual, NRAES 177 . Ithica, NY: National Resource, Agriculture, and Engineering Services (NRAES). ISBN 978-1-933395-21-0 . [7] Coleman, Pamela (November 2012). Guide for Organic Crop Producers (PDF) (Report). National Organic Pro- gram . Retrieved May 4, 2016. [8] Lamb, John; Craig Sheaffer & Kristine Moncada (2010). \"Chapter 4 Soil Fertility\". Risk Management Guide for Organic Producers (Report). University of Minnesota . [9] \"GreenManures\" . Royal Horticultural Society . Retrieved May 4, 2016. [10] L. H. Bailey, ed. (1907). \"Chapter 5, \"Crop Management,\"\". Cyclopedia of American Agriculture . pp. 85-88. [11] Gegner, Lance; George Kuepper (August 2004). \"Organic Crop Production Overview\" . National Center for Appropriate Technology . Retrieved May 4, 2016. [12] Powell, J.M.; William, T.O. (1993). \"An overview of mixed farming systems in sub-Saharan Africa\". Livestock and Sustainable Nutrient Cycling in Mixed Farming Systems of Sub-Saharan Africa: Proceedings of an International Conference, International Livestock Centre for Africa (ILCA) . 2 : 21-36. [13] \"\u00a7205.205 Crop rotation practice standard.\" . CODE OF FEDERAL REGULATIONS. Retrieved May 4, 2016. [14] M\u00e4der, Paul; et al. (2000). \"Arbuscular mycorrhizae in a long-term field trial comparing low-input (organic, biological) and high-input (conventional) farming systems in a crop rotation\". Biology and Fertility of Soils . 31 : 150- 156. doi : 10.1007/s003740050638 . [15] Triberti, Loretta; Anna Nastri & Guido Baldoni (2016). \"Long-term effects of crop rotation, manure fertilization on carbon sequestration and soil fertility\". European Journal of Agronomy . 74 : 47-55. doi : 10.1016/j.eja.2015.11.024 . [16] Victoria, Reynaldo (2012). \"The Benefits of Soil Carbon\". Risk Management Guide for Organic Producers (Report). United Nations Environment Programme . [17] Loynachan, Tom (December 1, 2016). \"Nitrogen Fixa- tion by Forage Legumes\" (PDF). Iowa State University . Department of Agrology. Retrieved December 1, 2016. [18] Adjei et. al, M. B. (December 1, 2016). \"Nitrogen Fixa- tion and Inoculation of Forage Legumes\" (PDF). Forage Beef . University of Florida. Retrieved December 1, 2016. [19] Moncada, Kristine; Craig Sheaffer (2010). \"Chapter 2 Rotation\". Risk Management Guide for Organic Producers (Report). University of Minnesota . [20] Davies, Ken (March 2007). \"Weed Control in Potatoes\" (PDF). British Potato Council. Retrieved December 1, 2016. [21] Unger PW, McCalla TM (1980). \"Conservation Tillage Systems\". Advances in Agronomy . 33 : 2-53. doi : 10.1016/s0065-2113(08)60163-7 . [22] Rose CW, Freebairn DM. \"A mathematical model of soil erosion and deposition processes with application to field data\". [23] Loch RJ, Foley JL (1994). \"Measurement of Aggregate Breakdown under rain: comparison with tests of water stability and relationships with field measurements of infiltration\". Australian Journal of Soil Research . 32 : 701- 720. doi : 10.1071/sr9940701 . [24] \"Forages in Rotation\" (PDF). Saskatchewan Soil Conservation Association. 2016. Retrieved December 1, 2016. [25] \"Aggregate Stability\" . Natural Resources Conservation Centre. 2011. Retrieved December 1, 2016. [26] Carroll C, Halpin M, Burger P, Bell K, Sallaway MM, Yule DF (1997). \"The effect of crop type, crop rotation, and tillage practice on runoff and soil loss on a Vertisol in central Queensland\". Australian Journal of Soil Research . 35 : 925-939. doi : 10.1071/s96017 . [27] Littleboy M, Silburn DM, Freebairn DM, Woodruff DR, HammerGL (1989). \"PERFECT. A computer simulation model of Productive Erosion Runoff Functions to Evaluate Conservation Techniques\". Queensland Department of Primary Industries. Bulletin QB89005 . [28] Huang M, Shao M, Zhang L, Li Y (2003). \"Water use efficiency and sustainability of different long-term crop rotation systems in the Loess Plateau of China\". Soil & Tillage Research . 72 : 95-104. doi : 10.1016/s0167- 1987(03)00065-5 . [29] Walker, Andy. \"Cover crops have major role to play in soil health\" . peicanada.com . Retrieved 2016-12-01. [30] [31]"
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "f45fa50c-4b0f-432e-8534-7838a030cb05"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "9 References", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Anderson, R.L. 2005. Are some crops synergistic to following crops? Agron. J. 97:7-10 Bullock, D.G. 1992. Crop Rotation. Critical Reviews in Plant Sciences, 11:309-326 Francis, C.A. 2003. Advances in the design of resource-efficient cropping systems. Journal of Crop Production. 8:15-32 Porter et al . 1997. Environment affects the corn and soybean rotation effect. Agron. J. 89:441-448 White, L.T. 1962. Medieval Technology and Social Change. Oxford University Press"
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "9ba44597-07c7-428b-953d-fcb7f5852af7"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "10 External links", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Technology in the middle ages \" Rotation of Crops \". New International Encyclope- dia . 1905."
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "0fb80514-4217-46c0-8809-3f7cb88b635e"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "11 Text and image sources, contributors, and licenses", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": ""
+        }
+      ], 
+      "parent_id": "0b8d9006-08a3-4910-bff5-a11474a46270", 
+      "type": "h3", 
+      "id": "336bb054-7792-44c3-9f23-0854bf90417d"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "11.1 Text", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Crop rotation Source: https://en.wikipedia.org/wiki/Crop_rotation?oldid=752611323 Contributors: AxelBoldt, Marj Tiefert, Bryan Derk-sen, Koyaanis Qatsi, Scipius, Rmhermen, PierreAbbat, Ortolan88, Anthere, Graft, Nommonomanac, Stan Shebs, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440, Poor Yorick, Bagsc, Pollinator, Robbot, Hadal, Tgiles, SpellBott, Alan Liefting, Captain Segfault, Sundar, Mboverload, Alexf, Antandrus, Onco p53, Neffk, Picapica, Thorwald, Perey, Poccil, Discospinster, Guanabot, Vsmith, Narsil, Elwikipedista~enwiki, Sten, Ylee, CanisRufus, Germen, RoyBoy, Erauch, Guettarda, Smalljim, Maurreen, Hajenso, Eritain, MPerel, Alansohn, Teren, Paleorthid, Mac Davis, Kitty.oneil, Pekinensis, Knuckles, Prashanthns, BD2412, Rjwilmsi, Nightscream, Williamborg, FlaBot, Ground Zero, Master Thief Garrett, Nihiltres, Celestianpower, RexNL, Quuxplusone, Chobot, Mordicai, Gwernol, Bje2089, EamonnPKeane, Roboto de Ajvol, YurikBot, Wavelength, Mushin, RussBot, SpuriousQ, Stephenb, PaulGarner, Wiki alf, Dialectric, Howcheng, Irishguy, Pablomartinez, Wknight94, WAS 4.250, Lendu, Droidus, Smurrayinchester, Jonathan.s.kt, Funkendub, SmackBot, KnowledgeOfSelf, Jagged 85, Delldot, Sam8, GraemeMcRae, Yamaguchi\ufffd\ufffd, Gilliam, Master Jay, Thumperward, Deli nk, Zak.l, OrphanBot, Rrburke, Chcknwnm, PrometheusX303, AThing, Gob-onobo, Breno, Mgiganteus1, IronGargoyle, Rjgibb, Optakeover, Funnybunny, KurtRaschke, MTSbot~enwiki, Sifaka, Woodroar, Octane, WikiSenah, Tawkerbot2, Paolodm, JForget, Skooma2112, WeggeBot, Neelix, Pro bug catcher, Yaris678, Eeipcy, Gogo Dodo, ST47, Brit-tyy leigh, MacGuyver, Epbr123, A3RO, Zhochaka, Noclevername, Oreo Priest, AntiVandalBot, Widefox, Seaphoto, Plantguy, Zachwoo, JAnDbot, MER-C, Svm2, Sanchom, Jonemerson, Bongwarrior, Think outside the box, Animum, Arce, DerHexer, JaGa, Defenestrating Monday, MartinBot, Gasheadsteve, R'n'B, DBlomgren, N4nojohn, J.delanoy, Pharaoh of the Wizards, Gglover, Ephebi, NewEnglandYan-kee, Madbishop, SJP, Jorfer, Rebthered, Kvdveer, IceDragon64, DASonnenfeld, Philip Trueman, Oshwah, Qxz, Piperh, Zomghax, Wiae, Hey jude, don't let me down, Falcon8765, Phmoreno, Why Not A Duck, ThomasTenCate, Tresiden, Gerakibot, Yintan, Nitrooreo, Keilana, Flyer22 Reborn, Bananastalktome, Oxymoron83, Antonio Lopez, Tombomp, Dillard421, Anchor Link Bot, Mygerardromance, Lascorz, Forest Ash, Martarius, ClueBot, Rybow203, Fyyer, Kotniski, Arakunem, Hysocc, Mild Bill Hiccup, Hetaira~enwiki, Blanchardb, Histo-rychecker, Insightfill, Excirial, Verzannt, Pkllkpman, Ngebendi, Fattyjwoods, ChrisHodgesUK, SoilMan2007, PCHS-NJROTC, Ilovedong, Saucy626, Ohmyyes, DragonFury, Avoided, Atraael, Berkt, Addbot, Riyuky, Fyrael, Queenmomcat, Ronhjones, Fieldday-sunday, Yuma, Cst17, Chamal N, Favonian, Jasper Deng, Quercus solaris, Numbo3-bot, Tide rolls, Lightbot, Ben Ben, Legobot, Yobot, Washburnmav, PacUserFiji, Eric-Wester, Kanahata, AnomieBOT, 90, Law, Materialscientist, Bob Burkhardt, LovesMacs, LilHelpa, The Banner, Rothgo, Kaylaanddrew, RibotBOT, Mattis, FrescoBot, Tobby72, Riventree, Cannolis, Pinethicket, I dream of horses, Elockid, Jonesey95, Rushbu-gled13, Tinton5, Just a guy from the KP, Cullen328, Jandalhandler, Ebaillie, Trappist the monk, Luisfdcp, GossamerBliss, Uzytkownik18, Reaper Eternal, Specs112, Innotata, TheMesquito, Alex9n, RjwilmsiBot, DexDor, Phlegat, Hey man nice shot ffffff, Xoristzatziki, Emaus-Bot, Look2See1, Slightsmile, Dcirovic, K6ka, Samobasquiat, PBS-AWB, F\u00e6, Knight1993, Charizard rider 11, PunkyMcPunkersen, Aeonx, Tolly4bolly, Dnp0002, Donner60, Phanjuy, \ufecb\ufee4\ufeae\ufeed \ufe91\ufee6 \ufedb\ufee0\ufe9c\ufeee\ufee1, Petrb, Xanchester, ClueBot NG, Will syd for free, Morgankevinj huggle, MelbourneStar, Piast93, Goose friend, Brunswick Dude, 123Hedgehog456, O.Koslowski, Widr, Antiqueight, Wikiwiki098, Curb Chain, BG19bot, Arnavchaudhary, Frlara, Smallerjim, Blake Burba, Wiki13, Trw803, MusikAnimal, Cpfadx3, Mark Arsten, Mvpedroia00, Snow Blizzard, Iateacow8, Cutiemeh, Pratyya Ghosh, Shaitibber, Kehkou, Tn4196, Webclient101, Sarnivore, Lugia2453, Haraldmmueller, Kingofaces43, Valetude, Will-o-the-west, Jianhui67, Jackmcbarn, Ficoman86, No longer a penguin, ChrisFellows00, Julietdeltalima, Pe-terTVC, KasparBot, Krg, Gacl906, GreenC bot, Fmadd, Sfs329, Anujgoyal604, Lukeac and Anonymous: 401"
+        }
+      ], 
+      "parent_id": "336bb054-7792-44c3-9f23-0854bf90417d", 
+      "type": "h4", 
+      "id": "a0e93cfb-090e-4528-82b5-55417f885c13"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "11.2 Images", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "File:Crops_Kansas_AST_20010624.jpg Source: https://upload.wikimedia.org/wikipedia/commons/e/e4/Crops_Kansas_AST_ 20010624.jpg License: Public domain Contributors: http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id= 17006 Original artist: NASA File:Plodozmian.jpg Source: https://upload.wikimedia.org/wikipedia/commons/a/ad/Plodozmian.jpg License: Public domain Contributors: Own work Original artist: Les\u0142aw Zimny File:Text_document_with_red_question_mark.svg Source: https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_ with_red_question_mark.svg License: Public domain Contributors: Created by bdesham with Inkscape; based upon Text-x-generic.svg from the Tango project. Original artist: Benjamin D. Esham ( bdesham ) File:Veranotrigo.jpg Source: https://upload.wikimedia.org/wikipedia/commons/4/4f/Veranotrigo.jpg License: CC BY 2.0 Contributors: http://www.flickr.com/photos/soilscience/2513807337/ Original artist: Soil-Science.info"
+        }
+      ], 
+      "parent_id": "336bb054-7792-44c3-9f23-0854bf90417d", 
+      "type": "h4", 
+      "id": "8f81de7d-cc32-4606-948d-9460cea7d572"
+    }, 
+    {
+      "direction": "ltr", 
+      "title": "11.3 Content license", 
+      "content": [
+        {
+          "media_type": "text/plain", 
+          "text": "Creative Commons Attribution-Share Alike 3.0"
+        }
+      ], 
+      "parent_id": "336bb054-7792-44c3-9f23-0854bf90417d", 
+      "type": "h4", 
+      "id": "7b75aff1-1008-423e-af30-26d0bb415b55"
+    }
+  ], 
+  "metadata": [
+    {
+      "content": "text/html; charset=UTF-8", 
+      "name": "Content-Type"
+    }, 
+    {
+      "content": "2016-12-02", 
+      "name": "publicationdate"
+    }
+  ]
+}
