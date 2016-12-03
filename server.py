@@ -14,7 +14,7 @@
 
 import os
 from flask import Flask, jsonify
-from .tradeoffA import tradeoffA
+from tradeoffA import tradeoffA
 
 app = Flask(__name__)
 
@@ -27,7 +27,9 @@ def WelcomeToMyapp():
     return 'Welcome again to my app running on Bluemix!'
 
 @app.route('/tradeoffA')
-tradeoffA()
+def dummy():
+    tradeoffA()
+    return
 
 @app.route('/api/people')
 def GetPeople():
